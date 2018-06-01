@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_NettoOT';
+	src: url('fonts/NettoOT.eot');
+	src: local('☺'), url('fonts/NettoOT.woff') format('woff'),
+	url('fonts/NettoOT.ttf') format('truetype'),
+	url('fonts/NettoOT.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
