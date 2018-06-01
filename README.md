@@ -6,10 +6,10 @@ Hey, guys! I am working on a project on Sitefinity CMS. The project requires the
 ~/App_Data/Sitefinity/WebsiteTemplate/template/App_theme/theme/global/Fonts
 
 @font-face { font-family: 'Conv_NettoOT';<br>
-src: url('fonts/NettoOT.eot');
-src: local('☺'),
-url('fonts/NettoOT.woff') format('woff'),
-url('fonts/NettoOT.ttf') format('truetype'),
-url('fonts/NettoOT.svg') format('svg');
-font-weight: normal;
+src: url('fonts/NettoOT.eot');<br>
+src: local('☺'),<br>
+url('fonts/NettoOT.woff') format('woff'),<br>
+url('fonts/NettoOT.ttf') format('truetype'),<br>
+url('fonts/NettoOT.svg') format('svg');<br>
+font-weight: normal;<br>
 font-style: normal;
