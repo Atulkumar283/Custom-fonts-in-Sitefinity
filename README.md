@@ -5,7 +5,7 @@ Hey, guys! I am working on a project on Sitefinity CMS. The project requires the
 
 ~/App_Data/Sitefinity/WebsiteTemplate/template/App_theme/theme/global/Fonts
 
-@font-face { font-family: 'Conv_NettoOT';
+@font-face { font-family: 'Conv_NettoOT';<br>
 src: url('fonts/NettoOT.eot');
 src: local('☺'),
 url('fonts/NettoOT.woff') format('woff'),
